@@ -1,0 +1,96 @@
+Vicomte (Non que je rechigne à la tâche, loin de là, mais me trouver assis au milieu de cette salle à perdre mon temps, pour des raisons qui ne me sont même pas personnelles… Oui, je reconnais que ça m’agace.
+Vicomte Ce titre, je ne l’ai jamais demandé à personne, je l’ai hérité.
+Vicomte (Si seulement je n’avais pu récupérer que l’argent de mes chers parents, cela m’aurait été nettement plus bénéfique. Je n’avais jamais pensé à cet aspect de la chose, à vrai dire…)
+Vicomte (D’un revers de la main, j’époussette mon costume.)
+Vicomte (Cette noblesse effroyable qui vous colle dans le dos comme une sangsue, ce n’est vraiment pas ce à quoi j’aspirais. Les petites gens du peuple, bien entendu, c’est leur rêve de gravir les échelons…)
+Vicomte (S’ils savaient le nombre de responsabilités absolument sidérant que l’on gagne en même temps que ces titres, je ne sais pas s’ils seraient si enclins à nous envier. Vicomte Même s’il est, certes, bien normal de m’envier.)
+Vicomte (Personnellement, j’avoue que rien ne me résiste, aucune porte ne m’est resté fermée bien longtemps et cela parce que je sais où frapper, qu’il s’agisse d’une porte… ou d’un visage. Je plaisante… je suis d’un humour fou, aujourd’hui.)
+Vicomte (Un soupir m’échappe.)
+Vicomte (C’est long. Très long.)
+Vicomte (Le Comte a bien conscience que j’avais rendez-vous ce jour, à midi pile, pour discuter des nouvelles doléances du peuple. Je suis à peu près certain qu’il fait exprès de me faire patienter… il sait que j’ai horreur de ces formalités.)
+Vicomte (En tant que Vicomte, il m’incombe de traiter les revendications que les Barons me rapportent du peuple : je les trie selon la classification fournie par le Conseil, par ordre de coût.)
+Vicomte (Ces requêtes sont ensuite transmises au Comte, qui va établir leur faisabilité. Si celles-ci obtiennent grâce à ses yeux, le peuple les verra s’exaucer.)
+Vicomte (A l’inverse si le Comte refuse, le peuple peut bien s'asseoir sur ses petits désirs. Et dans un cas comme dans l’autre : je m’en fiche.)
+Vicomte (Car non seulement cela m’embête au plus haut point, mais en plus de ça il a fallu que je tombe sur le Comte lon Nerstal, le plus exécrable qu’il soit de l’ensemble des Marcassins !
+)
+==> WAIT 1 seconde
+Vicomte (A quoi bon médire…)
+Vicomte (Ce goujat dissimulera toujours sa vraie nature au premier idiot venu. Dommage que je n’en sois pas un.)
+Vicomte (Intelligence naturelle ou apprentissage rigoureux, je me suis toujours posé la question… Qu’importe le contexte, j’approche, j’attrape, je danse, je conclus.)
+Vicomte (Eloquence et agilité, je n’ai de défaut que l’orgueil - qui selon les situations peut même se révéler être un atout de taille, mais je m’égare.
+)
+==> CHASSE TRUE
+Vicomte (C’est alors que mes yeux furent happés par le spectacle désobligeant qu’offre un tableau accroché au mur. Je ne pensais pas les goûts du Comte si mauvais, c’est d’un Vicomte classicisme horripilant.)
+Vicomte (Je me demande s’il prendrait mal que je le mette en contact avec quelques artistes de mon répertoire ?)
+Vicomte (Non que je sois expert en Art, mais cette scène de chasse et ses vulgaires animaux s’entre-déchirant me paraît digne du siècle précédent, il serait de bon ton d’évoluer un peu.)
+==> CHASSE FALSE
+Vicomte (De toute façon, ce n’est un secret pour personne que le Comte lon Nerstal est un homme disons… brusque.)
+Vicomte (Je ne devrais pas me laisser interpeller par ce genre de détail frivole. Regardons plutôt le paysage du dehors, afin de ne pas mourir d’ennui. J’espère que la vie ambiante saura me tirer de mon état végétatif.
+)
+==> FADE TO VIEW Nerstal WindowsGardien(view)
+Vicomte (Je me lève mollement pour inspecter la fenêtre et la vue qu’elle m’offre. Les environs ne sont que parterres de fleurs, dont la coordination me paraît bien hasardeuse.)
+Vicomte (Décidément, le Comte a les Arts en horreur…)
+Vicomte (Au moins, le spectacle est rafraîchissant, j’en oublierais presque que cela fait déjà dix minutes que ma patience est mise à rude épreuve - dix minutes, rendez-vous compte !)
+Vicomte (Le soleil à son zénith agresse mes yeux fatigués. Je décide de me retirer de cette fenêtre pour arpenter la pièce.)
+==> FADE TO VIEW Nerstall Salle de reception (view)
+Vicomte (Mes doigts gantés grattent distraitement un buste modelé à l'effigie de mon hôte. Plein d’humilité, comme d’habitude.)
+==> WAIT 2 secondes
+Vicomte (Je vais vraiment finir par le mettre en contact avec mon réseau d’artistes.)
+==> PORTAIT Show "Martin martin neutre" AT "Middle"
+Martin Monsieur le Vicomte.
+Vicomte (Je tourne la tête, l’air faussement intéressé. Martin, le serviteur du Comte lon Nerstal se tient droit comme un piquet, tiré à quatre épingles pour le plaisir des yeux, muni de son éternel sourire mielleux.)
+Martin Monsieur le Comte lon Nerstal va vous recevoir dans un instant.
+Vicomte (Je sais, j’ai déjà entendu cela il y a dix minutes. Je me contente donc de lui lancer un oeil affable.)
+Martin Puis-je vous servir à boire pour patienter ?
+Vicomte (Mon regard ne suffisait-il pas à t’indiquer ô combien ta présence m’est pénible ? Il faut croire que non. A l’image de ton maître : odieux.)
+Vicomte Non.
+Martin Mais j’insiste, Monsieur le Vicomte. Pensez à votre santé, par cette chaleur infâme, il faut vous hydrater. 
+
+Vicomte (Le fait-il exprès ?)
+Vicomte Non.
+Martin Une collation alors ? Il est midi, vous devez être affamé. Nous avons un large choix de mets proposés par notre chef, dont les talents ne sont plus à prouver.
+Martin Vous prendriez bien une bouchée de Zénichou, Monsieur le Vicomte ? Notre nouveau plat national, il faut lui faire honneur !
+Vicomte (Je sais, j’ai assisté moi-même à son inauguration, lors de l’intronisation du Duc Vladimir.)
+
+Vicomte Ainsi vous pouvez déduire si la soif ou la faim m’étreint ? Il faudra que vous m’expliquiez comment de tels dons vous ont été conférés. D’ici-là, vous pouvez disposer.
+
+==> PORTRAIT Show "Martin martin_surpris" at "Middle"
+Martin ...
+Vicomte (Allons, Martin, ne mimez pas cet air déçu. La seule chose qui vous affecte n’est pas mon refus mais le fait que je sois insensible à vos piètres railleries…)
+==> PORTRAIT Hide "Martin"
+??? Agréable, Monsieur le Vicomte, comme à votre habitude.
+
+==> PORTAIT Show "Nerstal nerstal_neutre" at "Middle"
+Vicomte (Le Comte de Nerstal a failli m’arracher un sursaut. Je me tourne pour lui faire face et lève le menton. La soixantaine lui va aussi mal que sa moustache pendante - veut-il réellement se donner un genre ou bien ne sait-il simplement pas se raser ?)
+Vicomte (Le Comte de Nerstal a failli m’arracher un sursaut. Je me tourne pour lui faire face et lève le menton. La soixantaine lui va aussi mal que sa moustache pendante - veut-il réellement se donner un genre ou bien ne sait-il simplement pas se raser ?)
+Vicomte Monsieur le Comte. J’ai failli vous attendre.
+Nerstal Il ne tient qu’à vous de ne pas arriver en avance.
+Vicomte (Je sors ma montre. Le bougre. Il n’a pas tort.)
+Nerstal Si vous voulez bien vous donner la peine de me suivre.
+Vicomte (Evidemment que je vais me donner la peine, je ne suis pas venu attendre ici pour rien.)
+==> PORTRAIT Hide "Nestral"
+==> FADE TO VIEW Nerstal Bureau (view)
+==> PORTRAIT Show "Nerstal nerstal_neutre" at "Middle"
+Nerstal Asseyez-vous donc.
+Vicomte Bien aimable.
+Vicomte (Je prends place et observe mon cahier de doléances, posé négligemment sur un coin de son bureau. On sent qu’il a été finement étudié, cela fait toujours plaisir.)
+Nerstal Alors, j’ai lu les nouvelles doléances de notre peuple… elles vous ont été rapportées par la Baronne Belle-Terre, c’est bien cela ?
+Vicomte Exact, c’est écrit en première page.
+==> PORTRAIT Show "Nerstal nestral_colere" at "Middle"
+Nerstal Certes. Il s’agissait simplement d’une confirmation.
+Nerstal Parmi les doléances que vous m’avez soumises, lesquelles vous paraissent être à traiter en priorité ?
+Vicomte Je ne sais pas, il me semble que c’est votre part du travail de décider cela.
+
+Nerstal Si vous souhaitez évoluer, il faudra bien appréhender ces responsabilités un jour ou l’autre, je ne fais que vous y préparer.
+Vicomte Il ne me paraît pas avoir évoqué en votre compagnie mes futurs choix de carrière.
+Nerstal Soit. Finissons-en : je vous les accorde toutes.
+==> PORTRAIT Show "Nerstal nerstal_neutre" at "Middle"
+Nerstal Générosité et magnanimité obligent.
+
+Vicomte (Oh. Si j’avais su, j’aurais ajouté parmis ces revendications la création d’une statue en mon honneur. Ce sera pour la prochaine fois…
+)
+Vicomte (Le Comte sort son tampon et, sans prendre la peine d’ouvrir le document qui m’a pris trois bonnes semaines de mon précieux temps, appose son cachet. C’est le peuple qui va me glorifier ce soir…)
+Nerstal Il ne vous reste qu’à signer, Vicomte, et je pourrai transmettre ce dossier à ma supérieure pour validation puis présentation au Conseil.
+Vicomte (Je sors mon Nobilian de son étui. Rouge et nacre. Petite pensée pour ma mère, qui en était la douce propriétaire, jadis… Sa vie était déjà toute tracée dans ce stylo, marqueur de noblesse mais aussi de trahison.)
+==> PORTRAIT Hide "Nerstal"
+==> CALL NEWSCENE
