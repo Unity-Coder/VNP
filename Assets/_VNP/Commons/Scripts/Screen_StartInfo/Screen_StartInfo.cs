@@ -17,6 +17,12 @@ namespace VNP.Commons
         private float _waitScreen = 2f;
 
         /// <summary>
+        /// Détermine si passe à la scène suivante sur une action clavier ou souris.
+        /// </summary>
+        [SerializeField]
+        private bool _skipOnInputEvent = true;
+
+        /// <summary>
         /// Nom de la scène à charger après le temps d'attente.
         /// </summary>
         [SerializeField]
@@ -30,6 +36,14 @@ namespace VNP.Commons
             StartCoroutine(Wait(_waitScreen));
         }
 
+        private void Update()
+        {
+            if (Input.anyKey || Input.GetMouseButton(0) || Input.GetMouseButton(1))
+            {
+                StopCoroutine(Wait(0));
+                StartCoroutine(LoadScene());
+            }
+        }
 
         /// <summary>
         /// Routine d'attente avant passage à la scène _scene_Start.
@@ -42,6 +56,14 @@ namespace VNP.Commons
             yield return new WaitForSeconds(time);
 
             // Charge la prochaine scène.
+            StartCoroutine(LoadScene());
+        }
+
+        /// <summary>
+        /// Charge la prochaine scène.
+        /// </summary>
+        private IEnumerator LoadScene()
+        {
             AsyncOperation asyncLoad = SceneManager.LoadSceneAsync(_scene_Start);
             while (!asyncLoad.isDone)
                 yield return null;
